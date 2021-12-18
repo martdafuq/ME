@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martdafuq
-- 👀 I’m interested in Open-Source, Linux, Full-Stack-Development
+- 👀 I’m interested in Open-Source, Linux, Full-Stack-Development, IoT
 - 🌱 I’m currently learning HTML, CSS, JS, php, NodeJS, React, C, C++, Java
 - 📫 How to reach me at martdafuq@gmail.com
 
