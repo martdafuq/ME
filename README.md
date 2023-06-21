@@ -4,9 +4,9 @@
 
 I've been learning Django for one month, and next, I plan to learn Vue. Currently, I work at KTN Business Solutions Co., Ltd as a Technical Support Specialist. Additionally, I am studying Computer Science at King Mongkut's University of Technology North Bangkok. I have a strong passion for customizing Linux and Cybersecurity. I am actively seeking a new career in Software Engineering, DevOps, or Cybersecurity.<br>
 🌍  I'm based in Bangkok, Thailand.<br>
-🖥️  See my portfolio at [My Show Case](http://martdafuq.github.io)<br> 
-✉️  You can contact me at [pacharaponbusiness@gmail.com](mailto:pacharaponbusiness@gmail.com)<br> 
-🧠  I'm learning Django, React and Vue
+🖥️  See my portfolio at [My Show Case](http://martdafuq.github.io).<br> 
+✉️  You can contact me at [pacharaponbusiness@gmail.com](mailto:pacharaponbusiness@gmail.com).<br> 
+🧠  I'm learning Django, React and Vue.
 
 ---
 
